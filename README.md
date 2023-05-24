@@ -4,10 +4,10 @@
 #Commands For CSS-Tailwind Setup
 <ol>
 <li>
-npm init
-npm install -D tailwindcss postcss autoprefixer
-npm install vite[ server start which automatically refreshes]
-npx tailwindcss init
+npm init</li>
+<li>npm install -D tailwindcss postcss autoprefixer</li>
+<li>npm install vite[ server start which automatically refreshes]</li>
+<li>npx tailwindcss init
 </li>
 
 config file add "*"
