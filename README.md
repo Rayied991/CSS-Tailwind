@@ -1,7 +1,7 @@
 # CSS-Tailwind
 <a href="https://tailwindcss.com/docs/installation/using-postcss">Source</a>
 
-#Commands For CSS-Tailwind Setup
+<b>Commands For CSS-Tailwind Setup<b>
 <ol>
 <li>
 npm init</li>
