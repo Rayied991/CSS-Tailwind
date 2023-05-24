@@ -10,6 +10,8 @@
 </ul>
 
 <br>
+
+
 <h1>Commands For CSS-Tailwind Setup for Development<h1>
 <ol>
 <li>
@@ -18,6 +20,7 @@ npm init</li>
 <li>npm install vite[ server start which automatically refreshes]</li>
 <li>npx tailwindcss init
 </li>
+</ol>
 
 <br>
 <h1>Commands For CSS-Tailwind Setup for Production<h1>
