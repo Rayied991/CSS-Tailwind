@@ -21,7 +21,7 @@ npm init</li>
 
 <br>
 <h1>Commands For CSS-Tailwind Setup for Production<h1>
-<p> To Setup  tailwind css Run-
+<p> To Setup  tailwind css Run-</p>
 <ol>
 <li>npm init-y //This initializes the directory as  a nodejs  Project</li>
 <li>npm install-D Tailwind  postcss autoprefixer vite //installs required packages</li>
