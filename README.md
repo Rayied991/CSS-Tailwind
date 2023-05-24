@@ -22,7 +22,7 @@ npm init</li>
 <br>
 <h1>Commands For CSS-Tailwind Setup for Production<h1>
 <p> To Setup  tailwind css Run-</p>
-<ol>
+<ul>
 <li>npm init-y //This initializes the directory as  a nodejs  Project</li>
 <li>npm install-D Tailwind  postcss autoprefixer vite //installs required packages</li>
 <li>npx tailwindcss init -p</li>
@@ -34,7 +34,7 @@ npm init</li>
 <li>In your tailwind .config.js file replace content:[], with content:["*"],</li>      
 <li>Add "start:""vite" to your scripts in Package.json</li>      
 <li>Run npm run start command to start a dev server</li>      
-</ol>
+</ul>
 
 config file add "*"
 /** @type {import('tailwindcss').Config} */
