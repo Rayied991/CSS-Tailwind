@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <nav>
+        <ul class="flex space-x-3 space-y-4">
+            <li></li>
+            <li>Home</li>
+            <li>About</li>
+            <li>Services</li>
+            <li>Contacts</li>
+        </ul>
+    </nav>
+    <div>
+        <div class=" border-2 w-56 mx-8 px-8 bg-red-700 text-white  rounded-lg  border-green-900">
+            I am a Div
+        </div>
+    </div>
+    <!-- Add borders between horizontal children -->
+
+    <div class="grid grid-cols-3 divide-x">
+        <div>01</div>
+        <div>02</div>
+        <div>03</div>
+      </div>
+      <!-- Add borders between stacked children -->
+
+      <div class="grid grid-cols-1 divide-y">
+        <div>01</div>
+        <div>02</div>
+        <div>03</div>
+      </div>
+      <!-- Reversing children order -->
+      <div class="flex flex-col-reverse divide-y divide-y-reverse">
+        <div>01</div>
+        <div>02</div>
+        <div>03</div>
+      </div>
+    
+</body>
+</html>
